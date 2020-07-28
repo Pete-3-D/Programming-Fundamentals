@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="171312f3-07a1-4666-b5c8-6cdf03bfc925" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1camRM8CtKLYqZhPGCz8cmoGhHZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Programming Fundamentals\Data Types and Variables\src" />
+      <recent name="D:\SoftUni\Programming Fundamentals\Data Types and Variables\More Exercises" />
+      <recent name="D:\SoftUni\Programming Fundamentals\Data Types and Variables\Exercise" />
+      <recent name="D:\SoftUni\Programming Fundamentals\Data Types and Variables\Lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpiceMustFlow">
+    <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BalancedBrackets" />
+      <module name="Data Types and Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecryptingMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecryptingMessage" />
+      <module name="Data Types and Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloatingEquality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FloatingEquality" />
+      <module name="Data Types and Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefactoringPrimeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RefactoringPrimeChecker" />
+      <module name="Data Types and Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiceMustFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpiceMustFlow" />
+      <module name="Data Types and Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpiceMustFlow" />
+        <item itemvalue="Application.BalancedBrackets" />
+        <item itemvalue="Application.DecryptingMessage" />
+        <item itemvalue="Application.RefactoringPrimeChecker" />
+        <item itemvalue="Application.FloatingEquality" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="171312f3-07a1-4666-b5c8-6cdf03bfc925" name="Default Changelist" comment="" />
+      <created>1590775070607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590775070607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1590777386389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590777386389" />
+    <state width="1493" height="196" key="GridCell.Tab.0.bottom" timestamp="1591023555147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591023555147" />
+    <state width="1493" height="196" key="GridCell.Tab.0.center" timestamp="1591023555147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591023555147" />
+    <state width="1493" height="196" key="GridCell.Tab.0.left" timestamp="1591023555147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591023555147" />
+    <state width="1493" height="196" key="GridCell.Tab.0.right" timestamp="1591023555147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591023555147" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590850909731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590850909731" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1590850909731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590850909731" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1590850909731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590850909731" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1590850909731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590850909731" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591248327935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591248327935" />
+    <state x="209" y="33" key="new project wizard" timestamp="1591248411209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591248411209" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590841844247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590841844247" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercise/Snowballs.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/More Exercises/BalancedBrackets.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
