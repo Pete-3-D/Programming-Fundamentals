@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2b5b24a-ac26-49cc-ab2a-8e8edf079303" name="Default Changelist" comment="" />
+    <list default="true" id="f2b5b24a-ac26-49cc-ab2a-8e8edf079303" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ExtractEmails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/ExtractEmails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NetherRealms.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/NetherRealms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SoftUniBarIncome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/SoftUniBarIncome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarEnigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/StarEnigma.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1fEOu97oPgGHncKKRshe0lW7zt1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +37,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Programming Fundamentals\Regular Expressions\Exercise" />
       <recent name="D:\SoftUni\Programming Fundamentals\Regular Expressions\Lab" />
     </key>
   </component>
@@ -125,10 +137,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595945218494" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595928026407">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596100856243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595928026407" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596100856243" />
+    <state x="209" y="33" key="new project wizard" timestamp="1596100909869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596100909869" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1595933177082">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
